@@ -1,4 +1,4 @@
 std_msgs/Header header
-str msg_id
-str source_id
+string msg_id
+string source_id
 geometry_msgs/Pose pose
